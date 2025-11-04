@@ -32,3 +32,5 @@ week 6 AI usage I was working on ENG class and used the AI to summerize the read
 week 7 AI usage This week my relfection for Ai to understanding coding lanaguage.I practiced the topics and function. 
 I asked chat how to find the right product for my business. I asked it to show me charts on how I can find the product with most popularity.I looked at the db of the product to see the trends. I always go over the lect with my friends to explain the topics. 
 
+Week 8 AI usage for this week I used AI to help me understand some of the topics I was having issues with like error handling and functions. I asked chat gpt for help with some function and excel assigemnet for my business classes. I was working on building a vex iq robot we are supposed to make a robot for our final project I am using it to help me build skills and doing the work to finish up projects. 
+
